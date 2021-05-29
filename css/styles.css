@@ -2,12 +2,12 @@
   font-size: 18px;
 }
 
-body {
+body{
   color: #424242;
 }
 
 a {
-  color:#424242;
+  color: #424242 ;
 }
 
 header {
@@ -16,26 +16,26 @@ header {
 }
 
 header a {
-  color: #aa1717;
+  color: #AA1717;
   text-decoration: none;
 }
 
-header a:hover {
-  color: #212121
+header a:hover{
+  color:#212121;
 }
 
 details summary {
   font-weight: bold;
 }
 
-h1 {
+h1{
   font-size: 60px;
 }
 
-h2 {
+h2{
   font-size: 40px;
 }
 
-h3 {
+h3{
   font-size:20px;
 }
